@@ -34,5 +34,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanecordero/rvcordero.git"
+  },
+  "keywords": [
+    "Frontend developer",
+    "Frontend practices",
+    "Vanessa Cordero",
+    "javascript",
+    "react"
+  ],
+  "author": "Vancor Codes <vancorcodes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanecordero/rvcordero/issues"
+  },
+  "homepage": "https://github.com/vanecordero/rvcordero#readme"
 }
