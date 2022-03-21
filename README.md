@@ -1,6 +1,6 @@
 # My portfolio
 
-Hi, welcome to my portfolio git. I have started this project from scratch, from the design to the development of the front part and the back part (Really little back).
+Hi, welcome to my portfolio git. I have started this project from scratch... From the design to the development of the front and the back (Really little backend). I am open to suggestions for improvement my code. Enjoy🌟
 
 ## My creation process
 
